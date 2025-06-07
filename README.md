@@ -77,7 +77,7 @@
 <body>
     <section class="card">
         <img src="profile.jpg" alt="Profile" class="profile-pic">
-        <h1>Many</h1>
+        <h1>Manu</h1>
         <h2>Frontend Developer</h2>
         <p>Passionate about building modern web interfaces and user experiences.</p>
         <div class="info">
